@@ -1,0 +1,21 @@
+# Python cache and virtual env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+*.egg-info/
+
+# SQLite database
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE / Editor files
+.idea/
+.vscode/
+
+# Django specific
+manage.py
