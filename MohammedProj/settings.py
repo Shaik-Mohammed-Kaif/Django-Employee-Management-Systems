@@ -7,7 +7,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-default-key')
 DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
 ALLOWED_HOSTS = [
-    'kaif-emp-mgmt-247-onrender-com.onrender.com',  # Exact Render URL
+    'kaif-emp-mgmt-247-v2.onrender.com',  # New unique name
     '127.0.0.1',
     'localhost',
 ]
