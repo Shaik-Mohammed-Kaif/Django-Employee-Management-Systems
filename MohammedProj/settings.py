@@ -18,7 +18,7 @@ DEBUG = os.environ.get('DEBUG', 'False') == 'True'
 
 # Allow Render URL + localhost for testing
 ALLOWED_HOSTS = [
-    'django-employee-management-systems.onrender.com',  # Your Render URL
+    'django-kaif-482.onrender.com',  # Your Render URL
     'localhost',
     '127.0.0.1'
 ]
